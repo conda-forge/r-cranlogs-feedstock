@@ -1,11 +1,11 @@
-About r-cranlogs
-================
+About r-cranlogs-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cranlogs-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/r-hub/cranlogs, https://r-hub.github.io/cranlogs
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cranlogs-feedstock/blob/main/LICENSE.txt)
 
 Summary: 'API' to the database of 'CRAN' package downloads from the 'RStudio' 'CRAN mirror'. The database itself is at <http://cranlogs.r-pkg.org>, see <https://github.com/r-hub/cranlogs.app> for the raw 'API'.
 
